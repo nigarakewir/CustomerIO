@@ -1,0 +1,21 @@
+node_modules
+data/*.json
+results/*.xml
+results/_html/*.html
+.DS_Store
+*.env
+temp
+.idea
+.npmrc
+.vscode
+.idea
+package-lock.json
+# cypress related
+cypress.env.json
+/node_modules
+/cypress/videos
+/cypress/screenshots
+test-results.xml
+token.txt
+file.json
+package-lock.json
