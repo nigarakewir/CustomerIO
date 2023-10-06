@@ -7,6 +7,14 @@
 3. `npm install cypress --save-dev`
 4. `npm install otplib --save-dev`
 5. `npm install -D cypress-xpath`
+6. create cypress.env.json under root file and pass credentials in order to run
+
+{
+    "user_name": "",
+    "user_password": "",
+    //2FA
+    "secret_token": ""
+}
 
 **Note:** If you're creating these variables in your cypress.env.json file, you just omit the CYPRESS_ prefix
 
