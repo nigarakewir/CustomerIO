@@ -16,8 +16,6 @@
     "secret_token": ""
 }
 
-**Note:** If you're creating these variables in your cypress.env.json file, you just omit the CYPRESS_ prefix
-
 ## How to run the tests
 
 To run the tests using Cypress' UI run
